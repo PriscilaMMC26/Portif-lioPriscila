@@ -1,0 +1,62 @@
+*{ 
+    margin: 0;
+    padding: 3px;
+    box-sizing: border-box;
+    text-decoration: none; 
+    list-style: square;
+    font-family: "popins", sans-serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    align-items: center;
+    padding-top: 1rem;
+}
+
+h2 {
+    color: rgb(245, 82, 7);
+}
+
+body {
+    background-image: url(Img/café.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul { 
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 18px;
+    cursor: pointer;
+    display: flex;
+    font-weight: 500;
+}
+
+a {
+    color: black; 
+}
+
+section {
+    padding: 40px;
+}
+
+nav a:hover {
+    color: rgb(245, 82, 7);
+}
+    
+/* margin é um elemento que define os quatro lados da área de margem*/
+/* padding é para definir a distância entre o conteúdo de um elemento e suas bordas*/
+/* box-sizing é usado para dimensionar, para calcular larguras e alturas*/
+/* text-decoration é usado para definir a decoração underline e overline são posicionadas abaixo e acima do
+texto (respectivamente), e li-through cortando-o*/
+/* justify-content é usada para alinhar os elementos ao longo do eixo principal*/
+/* align-items é usado para alinhar os itens no eixo transversal*/
+/* cursor é usado para especificar o cursor do mouse mostrando quando o ponteiro do mouse está sobre o elemento*/
+/* display é uma propriedade usada para organizar os elementos na página html*/ 
+

@@ -1,0 +1,28 @@
+body {
+    background-image: url(Img/fundo-bege.png)
+}
+
+section {
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: black;
+    margin: auto;
+    padding: 0150px 0500px;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+/* background é usado para trazer propriedades destinadas a estilizar o fundo de um box html*/
+/* font-family é utilizado para definir uma lista de fontes e sua propriedade para apresentação de um elemento
+em uma página*/
